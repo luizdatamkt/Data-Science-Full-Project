@@ -1,3 +1,4 @@
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/luizdatamkt/Data-Science-Full-Project/blob/main/LICENSE)
 
 Projeto Integrador Digital House
  
