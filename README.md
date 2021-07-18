@@ -12,11 +12,8 @@ O locatório só terá que informar algumas características e aplicação indic
 ## Tecnologia Utilizada:
 Python
 
-## Coleta de dados: 
-Web-scrapping realizado com a biblioteca beatifullSoup
-
-## Deploy:
-Framework Flask
+## Autor do Projeto:
+![image](https://user-images.githubusercontent.com/87500841/126073355-faf2f838-9b63-4ee7-b736-f3a63f47be6f.png)  www.linkedin.com/in/luizn
 
 # Apresentação do Pojeto:
 
@@ -71,4 +68,5 @@ Framework Flask
 ![Slide49](https://user-images.githubusercontent.com/87500841/126073245-306c229d-9bcf-4dce-ab00-663414303818.PNG)
 ![Slide50](https://user-images.githubusercontent.com/87500841/126073252-5e5655a7-56fa-426c-aa41-d94a079bfd59.PNG)
 ![Slide51](https://user-images.githubusercontent.com/87500841/126073257-da8be876-aed5-4f79-a66d-b1c24879becb.PNG)
-![Slide52](https://user-images.githubusercontent.com/87500841/126073259-4f196c36-1fd6-498b-b409-6948e6d04992.PNG)
+![Slide52](https://user-images.githubusercontent.com/87500841/126073461-e04e5c2d-814f-4a92-8acf-b1c88ac16b08.PNG)
+
